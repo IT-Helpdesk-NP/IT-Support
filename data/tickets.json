@@ -22,17 +22,5 @@
     "description": "Unable to connect to office WiFi network. Getting authentication error.",
     "resolution": "",
     "date": "2024-01-15"
-  },
-  {
-    "id": "TKT-002",
-    "title": "Request access to CRM system",
-    "category": "access",
-    "priority": "medium",
-    "status": "progress",
-    "reporter": "Sarah Davis",
-    "assignee": "Lisa Chen",
-    "description": "New sales team member needs access to Salesforce CRM.",
-    "resolution": "Account created, waiting for manager approval.",
-    "date": "2024-01-16"
   }
 ]
