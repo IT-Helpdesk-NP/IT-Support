@@ -1,0 +1,29 @@
+[
+  {
+    "id": "AST-001",
+    "name": "Dell Latitude 5520",
+    "type": "laptop",
+    "assignedTo": "John Smith",
+    "location": "Office - Floor 2",
+    "status": "active",
+    "serial": "DL2024XYZ123"
+  },
+  {
+    "id": "AST-002",
+    "name": "iPhone 13 Pro",
+    "type": "phone",
+    "assignedTo": "Sarah Davis",
+    "location": "Remote",
+    "status": "active",
+    "serial": "IMEI123456789"
+  },
+  {
+    "id": "AST-003",
+    "name": "HP LaserJet Pro",
+    "type": "printer",
+    "assignedTo": "",
+    "location": "Office - Floor 1",
+    "status": "maintenance",
+    "serial": "HP2024ABC789"
+  }
+]
