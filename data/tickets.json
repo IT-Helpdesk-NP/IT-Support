@@ -4,7 +4,7 @@
     "title": "Test",
     "category": "email",
     "priority": "critical",
-    "status": "open",
+    "status": "resolved",
     "reporter": "Madhusudan",
     "assignee": "Madhu",
     "description": "test",
