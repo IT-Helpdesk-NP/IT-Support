@@ -34,17 +34,5 @@
     "description": "New sales team member needs access to Salesforce CRM.",
     "resolution": "Account created, waiting for manager approval.",
     "date": "2024-01-16"
-  },
-  {
-    "id": "TKT-003",
-    "title": "Printer paper jam resolved",
-    "category": "hardware",
-    "priority": "low",
-    "status": "resolved",
-    "reporter": "Tom Wilson",
-    "assignee": "Mike Johnson",
-    "description": "Office printer showing paper jam error.",
-    "resolution": "Cleared paper jam and cleaned rollers. Tested successfully.",
-    "date": "2024-01-14"
   }
 ]
