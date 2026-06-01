@@ -7,8 +7,8 @@
     "amount": 1299.99,
     "currency": "USD",
     "purchaseDate": "2024-01-10",
-    "assignedTo": "Bed Prasad Dhakal",
-    "location": "HQ",
+    "assignedTo": "Bitu",
+    "location": "Madhesh Office",
     "status": "active",
     "serial": "DL2024XYZ123",
     "transferHistory": [
@@ -17,6 +17,14 @@
         "from": "John Smith",
         "to": "Bed Prasad Dhakal",
         "location": "HQ",
+        "reason": null,
+        "transferredBy": "Admin1"
+      },
+      {
+        "date": "2026-06-01",
+        "from": "Bed Prasad Dhakal",
+        "to": "Bitu",
+        "location": "Madhesh Office",
         "reason": null,
         "transferredBy": "Admin1"
       }
