@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "AST-001",
+    "name": "Dell Latitude 5520",
+    "type": "laptop",
+    "vendor": "Dell Direct",
+    "amount": 1299.99,
+    "currency": "USD",
+    "purchaseDate": "2024-01-10",
+    "assignedTo": "John Smith",
+    "location": "Office - Floor 2",
+    "status": "active",
+    "serial": "DL2024XYZ123",
+    "transferHistory": []
+  }
+]
