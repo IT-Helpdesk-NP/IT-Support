@@ -1,0 +1,9 @@
+[
+  {
+    "id": "N-001",
+    "title": "WiFi password reset procedure",
+    "author": "Mike Johnson",
+    "date": "2024-01-10",
+    "body": "1. Log into router admin panel\n2. Navigate to Wireless Settings\n3. Change password (minimum 12 characters)\n4. Update documentation\n5. Notify all staff via email"
+  }
+]
