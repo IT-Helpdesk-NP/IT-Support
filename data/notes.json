@@ -1,0 +1,23 @@
+[
+  {
+    "id": "N-001",
+    "title": "WiFi password reset procedure",
+    "author": "Mike Johnson",
+    "date": "2024-01-10",
+    "body": "1. Log into router admin panel\n2. Navigate to Wireless Settings\n3. Change password (minimum 12 characters)\n4. Update documentation\n5. Notify all staff via email"
+  },
+  {
+    "id": "N-002",
+    "title": "New employee onboarding checklist",
+    "author": "Lisa Chen",
+    "date": "2024-01-12",
+    "body": "IT Setup:\n- Create email account\n- Set up workstation\n- Install required software\n- Configure VPN access\n- Assign phone extension\n- Add to relevant distribution lists"
+  },
+  {
+    "id": "N-003",
+    "title": "Printer maintenance schedule",
+    "author": "Mike Johnson",
+    "date": "2024-01-13",
+    "body": "Monthly maintenance:\n- Clean print heads\n- Check toner levels\n- Clear paper jams\n- Update firmware if available\n- Test print quality"
+  }
+]
