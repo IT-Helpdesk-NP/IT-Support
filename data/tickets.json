@@ -1,0 +1,38 @@
+[
+  {
+    "id": "TKT-001",
+    "title": "Laptop not connecting to WiFi",
+    "category": "network",
+    "priority": "high",
+    "status": "open",
+    "reporter": "John Smith",
+    "assignee": "Mike Johnson",
+    "description": "Unable to connect to office WiFi network. Getting authentication error.",
+    "resolution": "",
+    "date": "2024-01-15"
+  },
+  {
+    "id": "TKT-002",
+    "title": "Request access to CRM system",
+    "category": "access",
+    "priority": "medium",
+    "status": "progress",
+    "reporter": "Sarah Davis",
+    "assignee": "Lisa Chen",
+    "description": "New sales team member needs access to Salesforce CRM.",
+    "resolution": "Account created, waiting for manager approval.",
+    "date": "2024-01-16"
+  },
+  {
+    "id": "TKT-003",
+    "title": "Printer paper jam resolved",
+    "category": "hardware",
+    "priority": "low",
+    "status": "resolved",
+    "reporter": "Tom Wilson",
+    "assignee": "Mike Johnson",
+    "description": "Office printer showing paper jam error.",
+    "resolution": "Cleared paper jam and cleaned rollers. Tested successfully.",
+    "date": "2024-01-14"
+  }
+]
