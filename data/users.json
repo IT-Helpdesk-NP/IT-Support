@@ -1,0 +1,9 @@
+[
+  {
+    "name": "John Smith",
+    "email": "john.smith@company.com",
+    "department": "engineering",
+    "role": "Software Engineer",
+    "status": "active"
+  }
+]
