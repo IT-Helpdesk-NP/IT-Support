@@ -9,7 +9,7 @@
     "purchaseDate": "2024-01-10",
     "assignedTo": "Store Keeper",
     "location": "Store",
-    "status": "active",
+    "status": "retired",
     "serial": "DL2024XYZ123",
     "transferHistory": [
       {
@@ -17,6 +17,7 @@
         "from": "John Smith",
         "to": "Store Keeper",
         "location": "Store",
+        "status": "retired",
         "reason": null,
         "transferredBy": "Madhusudan Upadhyay"
       }
