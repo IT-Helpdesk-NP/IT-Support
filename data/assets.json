@@ -7,38 +7,10 @@
     "amount": 1299.99,
     "currency": "USD",
     "purchaseDate": "2024-01-10",
-    "assignedTo": "Krishna Prasad Subedi",
-    "location": "HQ",
+    "assignedTo": "John Smith",
+    "location": "Office - Floor 2",
     "status": "active",
     "serial": "DL2024XYZ123",
-    "transferHistory": [
-      {
-        "date": "2026-06-02",
-        "from": "John Smith",
-        "to": "Store Keeper",
-        "location": "Store",
-        "status": "retired",
-        "reason": null,
-        "transferredBy": "Madhusudan Upadhyay"
-      },
-      {
-        "date": "2026-06-02",
-        "from": "Store Keeper",
-        "to": "Bed Prasad Dhakal",
-        "location": "Store",
-        "status": "active",
-        "reason": null,
-        "transferredBy": "Madhusudan Upadhyay"
-      },
-      {
-        "date": "2026-06-02",
-        "from": "Bed Prasad Dhakal",
-        "to": "Krishna Prasad Subedi",
-        "location": "HQ",
-        "status": "active",
-        "reason": null,
-        "transferredBy": "Admin1"
-      }
-    ]
+    "transferHistory": []
   }
 ]
