@@ -1,17 +1,5 @@
 [
   {
-    "id": "TKT-002",
-    "title": "test",
-    "category": "hardware",
-    "priority": "low",
-    "status": "open",
-    "reporter": "Bed Pradad Dhakal",
-    "assignee": "Krishna Subedi",
-    "description": "Internet is not working",
-    "resolution": "",
-    "date": "2026-06-02"
-  },
-  {
     "id": "TKT-001",
     "title": "Laptop not connecting to WiFi",
     "category": "network",
