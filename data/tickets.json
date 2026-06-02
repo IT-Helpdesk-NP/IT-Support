@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "TKT-001",
+    "title": "Laptop not connecting to WiFi",
+    "category": "network",
+    "priority": "high",
+    "status": "open",
+    "reporter": "John Smith",
+    "assignee": "Mike Johnson",
+    "description": "Unable to connect to office WiFi network. Getting authentication error.",
+    "resolution": "",
+    "date": "2024-01-15"
+  }
+]
