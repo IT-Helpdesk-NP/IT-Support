@@ -4,7 +4,7 @@
     "title": "Laptop not connecting to WiFi",
     "category": "network",
     "priority": "high",
-    "status": "open",
+    "status": "resolved",
     "reporter": "John Smith",
     "assignee": "Mike Johnson",
     "description": "Unable to connect to office WiFi network. Getting authentication error.",
