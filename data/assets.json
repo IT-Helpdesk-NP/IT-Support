@@ -7,16 +7,16 @@
     "amount": 1299.99,
     "currency": "USD",
     "purchaseDate": "2024-01-10",
-    "assignedTo": "bed prasad dhakal",
-    "location": "Office - Floor 2",
+    "assignedTo": "Store Keeper",
+    "location": "Store",
     "status": "active",
     "serial": "DL2024XYZ123",
     "transferHistory": [
       {
         "date": "2026-06-02",
         "from": "John Smith",
-        "to": "bed prasad dhakal",
-        "location": "Office - Floor 2",
+        "to": "Store Keeper",
+        "location": "Store",
         "reason": null,
         "transferredBy": "Madhusudan Upadhyay"
       }
